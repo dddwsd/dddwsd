@@ -1,11 +1,12 @@
-# Hi there 👋
+## Hi there 👋
 
-⚡ I'm a software engineer and interested in ML engineering like model serving and optimization.
+Software engineer <br>
+Interested in ML engineering like model serving and optimization.
 
-# Blog 📃
+## Blog 📃
 https://velog.io/@dddwsd
 
-# Stats 📊 
+## Stats 📊 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dddwsd&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dddwsd)](https://github.com/anuraghazra/github-readme-stats)
