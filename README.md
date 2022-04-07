@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Software engineer <br>
-Interested in ML engineering like model serving and optimization.
+Interested in ML engineering like model serving and optimization & backend.
 
 ## Blog 📃
 https://velog.io/@dddwsd
@@ -9,7 +9,7 @@ https://velog.io/@dddwsd
 ## Stats 📊 
 [![dddwsd's GitHub stats](https://github-readme-stats.vercel.app/api?username=dddwsd)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dddwsd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![dddwsd's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dddwsd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
