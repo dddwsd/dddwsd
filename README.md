@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Software engineer <br>
+## 👋 I'm Software engineer
 Interested in ML engineering like model serving and optimization & backend.
 
 ## Blog 📃
